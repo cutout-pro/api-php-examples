@@ -1,0 +1,8 @@
+.idea/
+__pycache__
+venv
+output/*
+!output/.gitkeep
+.project
+.settings/
+.buildpath
